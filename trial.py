@@ -1,4 +1,4 @@
-# import sqlite4
+# import sqlite5
 #
 # conn = sqlite3.connect('music_2/music_2.sqlite')
 # cursor = conn.cursor()
