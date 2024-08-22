@@ -10,6 +10,7 @@
 import torch
 from matplotlib import pyplot as plt
 import os
+import torch.nn as nn
 import pandas as pd
 # 获取 Windows 系统的桌面路径
 desktop_path = os.path.join(os.path.expanduser("~"), 'Desktop')
