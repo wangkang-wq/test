@@ -9,7 +9,7 @@
 # conn.close()
 
 import os
-
+import pandas as pd
 # 获取 Windows 系统的桌面路径
 desktop_path = os.path.join(os.path.expanduser("~"), 'Desktop')
 # print(desktop_path)
